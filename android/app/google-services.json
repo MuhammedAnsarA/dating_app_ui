@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325173526176",
+    "project_id": "dating-app-c720e",
+    "storage_bucket": "dating-app-c720e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325173526176:android:ab7b640b1afc91a08253c5",
+        "android_client_info": {
+          "package_name": "com.example.finate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325173526176-uhp7rlqc40jhdjkut65nmijpnhb8hiuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jHEQnvCFe-UlUkiPojvBWR07DcclQIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325173526176-uhp7rlqc40jhdjkut65nmijpnhb8hiuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
